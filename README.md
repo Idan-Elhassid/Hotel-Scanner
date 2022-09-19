@@ -9,6 +9,8 @@ for one of our holiday's, she wanted to book us a hotel with booking.com, but ha
 
 I wanted to be able to help her and get the cheapest dates for hotels just like you can get the cheapest dates for flights in sites like skyscanner and airline website's.
 
+***in this branch there are extra steps to collect and store monthly and seasonal data and prices. it can also display the summery of this added data in the end chart. 
+
 ***requirements: install and import the following python libraries: Selenium, pandas, seaborn. matplotlib.pyplot, datetime.
 
 
