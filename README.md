@@ -12,9 +12,10 @@ I wanted to be able to help her and get the cheapest dates for hotels just like 
 ***requirements: install and import the following python libraries: Selenium, pandas, seaborn. matplotlib.pyplot, datetime.
 
 
+here is a little demo: 
+we are looking on the Hard Rock hotel in london, at mid december the price was above 8000₪ 
+but using my software we found much cheaper dates at january\february - with the cheapest date highlighted at aroung 5000₪ 
 
 
-![booking3](https://user-images.githubusercontent.com/112956707/207546121-83398643-d07e-4a84-93a5-ac21958d0996.PNG)
-
-
+![booking3](https://user-images.githubusercontent.com/112956707/207547969-b950a580-56d2-4dca-a7d4-028e1c5b05ea.PNG)
 
