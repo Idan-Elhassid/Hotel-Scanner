@@ -13,7 +13,7 @@ I wanted to be able to help her and get the cheapest dates for hotels just like 
 
 
 here is a little demo: 
-we are looking on the Hard Rock hotel in london, at mid december the price was above 8000₪ 
+we are looking at the Hard Rock hotel in london, at mid december the price was above 8000₪ 
 but using my software we found much cheaper dates at january\february - with the cheapest date highlighted at aroung 5000₪ 
 
 
