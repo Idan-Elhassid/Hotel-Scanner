@@ -12,3 +12,9 @@ I wanted to be able to help her and get the cheapest dates for hotels just like 
 ***requirements: install and import the following python libraries: Selenium, pandas, seaborn. matplotlib.pyplot, datetime.
 
 
+
+
+![booking3](https://user-images.githubusercontent.com/112956707/207546121-83398643-d07e-4a84-93a5-ac21958d0996.PNG)
+
+
+
